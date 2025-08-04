@@ -1,0 +1,4 @@
+RULE -1 : Daily practise sql queries should be saved in Queries folder 
+ex- create day1 folder (save files of day 1 practice)
+RULE -2: Daily write notes on notepad or paper and upload to notes folder same say queries
+RULE -3: daily practice some questions in sql-practice in code chef I can see what u practiced by that linl
